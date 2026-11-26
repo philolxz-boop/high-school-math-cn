@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" role="img" aria-labelledby="title desc">
+  <title id="title">二次函数与不等式的符号</title>
+  <desc id="desc">开口向上的抛物线与横轴交于 x1 和 x2，两根之间函数值为负，两根之外为正。</desc>
+  <rect width="720" height="360" rx="14" fill="#f8fafc"/>
+  <path d="M45 220H680 M355 320V30" stroke="#475569" stroke-width="2"/>
+  <path d="M80 40 Q355 504 630 40" fill="none" stroke="#2563eb" stroke-width="4"/>
+  <circle cx="225" cy="220" r="5" fill="#2563eb"/><circle cx="485" cy="220" r="5" fill="#2563eb"/>
+  <g font-family="sans-serif" font-size="22" fill="#334155"><text x="685" y="226">x</text><text x="360" y="35">y</text><text x="210" y="250">x₁</text><text x="474" y="250">x₂</text><text x="105" y="195">正</text><text x="345" y="290">负</text><text x="595" y="195">正</text></g>
+</svg>
